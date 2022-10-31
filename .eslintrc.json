@@ -29,14 +29,6 @@
                 "ts": "never",
                 "tsx": "never"
             }
-        ],
-        "react/jsx-filename-extension": [
-            "warn",
-            {
-                "extensions": [
-                    ".tsx"
-                ]
-            }
         ]
     }
 }
